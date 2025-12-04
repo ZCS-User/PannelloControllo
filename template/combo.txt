@@ -1,0 +1,2 @@
+curva MPPT DC1
+curva MPPT DC1+DC3

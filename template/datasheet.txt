@@ -1,0 +1,3 @@
+curva MPPT DC1
+curva MPPT DC1+DC2
+ciclo batteria
